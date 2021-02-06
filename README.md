@@ -6,7 +6,7 @@ including:
 
 2. Singular Value Decomposition 
 
-3. Color Image Compreesion Using Eigenvalue Decompositio
+3. Color Image Compreesion Using Eigenvalue Decomposition
 
 4. How to transfer Excel data to Matrix using Python
 
